@@ -3,17 +3,18 @@ Changelog
 
 Version 1.0
 ----
-Viridian Forest
-	* Bellsproute, Oddish, Spearow, Pidgey, Pidgeotto added
-	* Increased encounter rate of Pikachu
-	* Decreased encounter rate of low-level  Weedle, Caterpie, Kakuna, and Metapod.
-	* Increased overall Pokemon encounter rate
-	
-Route 22
-	* Decreased enounter rate of low-level Rattatta and Spearow.
-	* Nidoran (M) and Nidoran (F) added
+* Map
+	* Viridian Forest
+		* Bellsproute, Oddish, Spearow, Pidgey, Pidgeotto added
+		* Increased encounter rate of Pikachu
+		* Decreased encounter rate of low-level  Weedle, Caterpie, Kakuna, and Metapod.
+		* Increased overall Pokemon encounter rate
+		
+	* Route 22
+		* Decreased enounter rate of low-level Rattatta and Spearow.
+		* Nidoran (M) and Nidoran (F) added
 
-Trainers
+* Trainers
 	* Rival
 		* Team revamped based on Adventures Manga
 			* Gyarados replaced with Golduck (when player chose Squirtle/Venusaur)
@@ -31,8 +32,7 @@ Trainers
 		* Replaced Dragonair, Dragonair, and Aerodactyl with Altaria, Salamence, and Kingdra
 		* Added Flygon
 	
-		
-Pokemon
+* Pokemon
 	* Evolution changes
 		* Machoke evolves at level 40
 		* Kadabra evolves at level 40
@@ -43,7 +43,7 @@ Pokemon
 		* Scyther evolves into Scizor at level 36
 		* Eevee evolves into Espeon via Sun Stone
 		* Eevee evolves into Umbreon via Moon Stone
-		* Seadra evolves at level 42
+		* Seadra evolves at level 45
 		* Porygon evolves at level 36
 		* Clamperl evolves into Huntail via Moon Stone
 		* Clamperl evolves into Gorebyss via Sun Stone
@@ -54,7 +54,6 @@ Pokemon
 		* Butterfree is Bug/Psychic
 		* Noctowl is Psychic/Flying
 		* Gyarados is Water/Dragon
-		* Charizard is Fire/Dragon
 		* Kangaskhan is Ground
 		* Typhlosion is Fire/Ground
 		* Feraligatr is Water/Dark
