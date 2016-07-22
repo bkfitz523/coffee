@@ -31,6 +31,53 @@ Version 1.0
 	* Lance
 		* Replaced Dragonair, Dragonair, and Aerodactyl with Altaria, Salamence, and Kingdra
 		* Added Flygon
+		
+* Pokemon
+	* Evolution changes
+		* Machoke evolves at level 40
+		* Kadabra evolves at level 40
+		* Haunter evolves at level 40
+		* Onix evolves at level 32
+		* Slowpoke evolves into Slowking via Water Stone
+		* Poliwhirl evolves into Politoed via Sun Stone
+		* Scyther evolves into Scizor at level 36
+		* Eevee evolves into Espeon via Sun Stone
+		* Eevee evolves into Umbreon via Moon Stone
+		* Seadra evolves at level 45
+		* Porygon evolves at level 36
+		* Wurmple evolves into Beautifly via Sun Stone
+		* Wurmple evolves into Dustox via Moon Stone
+		* Clamperl evolves into Huntail via Moon Stone
+		* Clamperl evolves into Gorebyss via Sun Stone
+		* Feebas evolves into Milotic via Water Stone
+		
+	* Type Changes
+		* Magmar is Fire/Fighting
+		* Electabuzz is Fire/Fighting
+		* Butterfree is Bug/Psychic
+		* Noctowl is Psychic/Flying
+		* Gyarados is Water/Dragon
+		* Charizard is Fire/Dragon
+		* Kangaskhan is Ground
+		* Typhlosion is Fire/Ground
+		* Feraligatr is Water/Dark
+		* Gastly, Haunter, and Gengar are Ghost
+		* Ampharos is Electric/Dragon
+		* Aron, Lairon, and Aggron changed to Steel
+		* Zangoose changed to Normal/Fighting
+		* Seviper changed to Poison/Dark
+		* Glalie changed to Ice/Dark
+		
+	* Ability Changes
+		
+	* Moveset changes
+		* Butterfree learns Psychic and Signal Beam
+		* Noctowl learns Psychic
+		* Nidorino learns Magnitude
+		
+	* Sprite Changes
+		* Butterfree and Venomoth sprites have swapped
+		* Magnemite and Magneton no longer appear to levitate
 	
 * Moves
 	* Accuracy
@@ -68,6 +115,7 @@ Version 1.0
 		* Dig power increased to 80
 		* Dive power increased to 80
 		* Doom Desire power increased to 140
+		* Dragon Rage power increased to 85
 		* Fire Blast power decreased to 110
 		* Fire Spin power increased to 35
 		* Flamethrower power decreased to 90
@@ -127,44 +175,11 @@ Version 1.0
 		* Skull Bash PP decreased to 10
 		* Swords Dance PP decreased to 20
 		* Thief PP increased to 25
-		* Thrash PP decreased to 10		
+		* Thrash PP decreased to 10
+	* Type
+		* Cut changed to Bug-type
+		* Strength changed to Fighting-type
+		* Flash changed to Electric-type
 	* Contact
 		* AncientPower does not make contact
 		* Overheat does not make contact
-	
-* Pokemon
-	* Evolution changes
-		* Machoke evolves at level 40
-		* Kadabra evolves at level 40
-		* Haunter evolves at level 40
-		* Onix evolves at level 32
-		* Slowpoke evolves into Slowking via Water Stone
-		* Poliwhirl evolves into Politoed via Sun Stone
-		* Scyther evolves into Scizor at level 36
-		* Eevee evolves into Espeon via Sun Stone
-		* Eevee evolves into Umbreon via Moon Stone
-		* Seadra evolves at level 45
-		* Porygon evolves at level 36
-		* Clamperl evolves into Huntail via Moon Stone
-		* Clamperl evolves into Gorebyss via Sun Stone
-		* Feebas evolves into Milotic via Water Stone
-		
-	* Type Changes
-		* Magmar is Fire/Fighting
-		* Electabuzz is Fire/Fighting
-		* Butterfree is Bug/Psychic
-		* Noctowl is Psychic/Flying
-		* Gyarados is Water/Dragon
-		* Charizard is Fire/Dragon
-		* Kangaskhan is Ground
-		* Typhlosion is Fire/Ground
-		* Feraligatr is Water/Dark
-		
-	* Moveset changes
-		* Butterfree learns Psychic and Signal Beam
-		* Noctowl learns Psychic
-		* Nidorino learns Magnitude
-		
-	* Sprite Changes
-		* Butterfree and Venomoth sprites have swapped
-		* Magnemite and Magneton no longer appear to levitate
