@@ -10,11 +10,15 @@ public static void main(String[] args) throws FileNotFoundException, Unsupported
 		
 		PrintWriter writer = new PrintWriter("Pokemon Type Permutation02.txt", "UTF-8");
 		
-		String[] Type = {"Grass","Fighting","Water","Ice","Fairy","Flying","Ghost","Poison","Bug","Steel","Ground","Dragon"};
-
-		for (int m=0; m<12; m++){ //type1 combination loop
+		String[] Type = {"Water","Ground","Grass","Steel","Electric","Dragon","Bug","Fire","Fighting"}; //white team
+		//String[] Type = {"Grass","Fighting","Water","Ice","Fairy","Flying","Ghost","Poison","Bug","Steel","Ground","Dragon"};
+		
+		//int length=9;
+		int length = Type.length;
+		
+		for (int m=0; m<length; m++){ //type1 combination loop
 			
-			for (int j=m+1; j<12; j++){ //type2 loop
+			for (int j=m+1; j<length; j++){ //type2 loop
 				
 				if (Type[m]!=Type[j]){ //skips if type is duplicate
 					
@@ -29,5 +33,4 @@ public static void main(String[] args) throws FileNotFoundException, Unsupported
 		writer.close(); //closes Writer
 		
 	} //end main
-	
 }
