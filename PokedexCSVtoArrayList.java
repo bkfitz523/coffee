@@ -21,7 +21,7 @@ public class PokedexCSVtoArrayList {
 		
 		try {
 			String pokedexLine;
-			pokedexBuffer = new BufferedReader(new FileReader("/Users/bkfit/workspace/PokemonWriter/src/src/pokedex.csv"));
+			pokedexBuffer = new BufferedReader(new FileReader("/Users/bkfit/workspace/PokemonWriter/src/src/PokedexURLs.csv"));
 			//C:/Users/bkfit/workspace/PokemonWriter/src/src
 			// How to read file in java line by line?
 			while ((pokedexLine = pokedexBuffer.readLine()) != null) {
