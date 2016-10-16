@@ -53,7 +53,7 @@ Version 1.0
 		
 	* Type Changes
 		* Magmar is Fire/Fighting
-		* Electabuzz is Fire/Fighting
+		* Electabuzz is Electric/Fighting
 		* Butterfree is Bug/Psychic
 		* Noctowl is Psychic/Flying
 		* Gyarados is Water/Dragon
